@@ -69,3 +69,7 @@ __강조텍스트__
 **강조텍스트**
 
 
+이미지 넣기
+![](github에 저장된 URL, "이미지 설명")
+![Spring](https://github.com/MIN-04/eHRGit0101/blob/master/eHRGit0101/src/spring.jpg, "Spring")
+
